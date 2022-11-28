@@ -1,0 +1,36 @@
+body {
+  background-color: #1d1f24;
+  color: #e7f0eb !important;
+}
+.navbar-brand{
+  color: #e7f0eb !important;
+}
+.bg-secondary {
+  background-color: #1d1f24 !important;
+
+  }
+  .copyright {
+  background-color: #1a252f;
+
+  
+  }
+  .bg-primary {
+  background-color: #1a66bc !important;
+  color: #e7f0eb !important;
+  }
+  nav {
+  font-weight: 700;
+  
+  }
+  .img-card {
+  height: 18vw;
+  object-fit: cover;
+  }
+  
+  .ms-auto{
+    color:#c4c7c6;
+    transition: 0.5s;
+  }
+  .ms-auto  :hover {
+    color: #e2e2e2 !important;
+  }
